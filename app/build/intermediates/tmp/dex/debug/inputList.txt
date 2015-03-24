@@ -1,0 +1,7 @@
+/Users/ziyang0621/AndroidStudioProjects/hellomap-android-master/app/build/intermediates/classes/debug
+/Users/ziyang0621/AndroidStudioProjects/hellomap-android-master/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-4dbdecbb58c5e13c18c798e68b97796705403774.jar
+/Users/ziyang0621/AndroidStudioProjects/hellomap-android-master/app/build/intermediates/pre-dexed/debug/picasso-2.5.0-b0d5954c8869763e3e9cdd700f6b31e365b54bd1.jar
+/Users/ziyang0621/AndroidStudioProjects/hellomap-android-master/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-8f82937e6f13d53a7863b333b016a3f6a949eeba.jar
+/Users/ziyang0621/AndroidStudioProjects/hellomap-android-master/app/build/intermediates/pre-dexed/debug/classes-368d4f9013af83125286dfd9afb4977c5dcf76bd.jar
+/Users/ziyang0621/AndroidStudioProjects/hellomap-android-master/app/build/intermediates/pre-dexed/debug/classes-810521d7c0b495c2735e2e18a69c482b777bd608.jar
+/Users/ziyang0621/AndroidStudioProjects/hellomap-android-master/app/build/intermediates/pre-dexed/debug/classes-7c21e9d57505a19b6eb3b0d6691965954e38f412.jar
